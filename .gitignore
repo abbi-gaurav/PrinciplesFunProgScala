@@ -3,7 +3,7 @@
 .project
 .settings/
 
-# Intellij
+#   Intellij
 .idea/
 *.iml
 *.iws
