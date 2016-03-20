@@ -1,0 +1,22 @@
+# Eclipse
+**/.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+project/
+projectFilesBackup
+CourseraFPWithScala/.classpath
+.metadata/
+**/.cache-main
+**/.cache-tests
